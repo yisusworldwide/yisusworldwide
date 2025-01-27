@@ -10,6 +10,17 @@
 - 🌱 Mastering OpenAI Python APIs and Cloud Computing.
 - 📫 How to reach me: jjimenezm.etra@grupoetra.com
 
+#### 📚 Languages:
+
+![css](https://img.shields.io/badge/-css-black?style=flat-square&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
+![React JS](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
+
+#### 💾 Databases:
+![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 <!--
 **yisusworldwide/yisusworldwide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
